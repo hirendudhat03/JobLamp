@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "817898368844",
+    "project_id": "joblamp-8acf8",
+    "storage_bucket": "joblamp-8acf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817898368844:android:03f86813151756ae6e69e9",
+        "android_client_info": {
+          "package_name": "com.joblamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817898368844-9ecn2ujlkcfjmgpi2kbrkcd1t2cntgse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD37Mm5ntUeKByiKpRkWY-pkx1jqwZYkwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817898368844-9ecn2ujlkcfjmgpi2kbrkcd1t2cntgse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817898368844-gm3uag6uo3eqocnjc3emvnf70pe6133b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joblamp.iosapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

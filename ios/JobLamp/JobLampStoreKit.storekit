@@ -1,0 +1,115 @@
+{
+  "identifier" : "CECF9B6F",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "5FF628FA",
+      "localizations" : [
+
+      ],
+      "name" : "JobLampSubscriptions",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "5.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "856C05BF",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "JobLamp Basic Plan Subscription",
+              "displayName" : "JobLamp Basic Monthly Plan",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.job.lamp.basic.plan.month",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "JobLamp Basic Monthly Plan",
+          "subscriptionGroupID" : "5FF628FA",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "F17F60B7",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "JobLamp Basic Plan Subscription",
+              "displayName" : "JobLamp Basic Yearly Plan",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.job.lamp.basic.plan.year",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "JobLamp Basic Yearly Plan",
+          "subscriptionGroupID" : "5FF628FA",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "49.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "47887D69",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "JobLamp VIP Plan Subscription",
+              "displayName" : "JobLamp VIP Monthly Plan",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.job.lamp.vip.plan.month",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "JobLamp VIP Monthly Plan",
+          "subscriptionGroupID" : "5FF628FA",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "199.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "D2D7430A",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.job.lamp.vip.plan.year",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "JobLamp VIP Yearly Plan",
+          "subscriptionGroupID" : "5FF628FA",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
